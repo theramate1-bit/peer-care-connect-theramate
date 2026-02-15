@@ -17,9 +17,11 @@ Welcome to the Peer Care Connect / Theramate documentation. This directory conta
 
 ### Features
 - [Booking System](./features/booking-system.md)
+- [How Booking Works](./features/how-booking-works.md) 🆕 - Step-by-step guide
 - [Payment System](./features/payment-system.md)
 - [Messaging System](./features/messaging.md)
 - [Credit System](./features/credit-system.md)
+- [How Credits Work](./features/how-credits-work.md) 🆕 - Credit system explained
 - [Treatment Notes](./features/treatment-notes.md)
 
 ### API Documentation
@@ -42,6 +44,7 @@ Welcome to the Peer Care Connect / Theramate documentation. This directory conta
 
 ### Contributing
 - [Contributing Guidelines](../CONTRIBUTING.md)
+- [Junior Developer Guide](./contributing/junior-developer-guide.md) 🆕
 - [Code Standards](./contributing/code-standards.md)
 - [Git Workflow](./contributing/git-workflow.md)
 - [Code Review Process](./contributing/code-review.md)
