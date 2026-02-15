@@ -1,0 +1,324 @@
+﻿Wall Push-ups|strength|beginner
+Knee Push-ups|strength|beginner
+Squats|strength|beginner
+Chair Squats|strength|beginner
+Wall Sit|strength|beginner
+Glute Bridge|strength|beginner
+Plank|strength|beginner
+Knee Plank|strength|beginner
+Dead Bug|strength|beginner
+Bird Dog|strength|beginner
+Calf Raises|strength|beginner
+Seated Leg Raises|strength|beginner
+Standing Hip Abduction|strength|beginner
+Standing Hip Extension|strength|beginner
+Wall Angels|strength|beginner
+Scapular Squeezes|strength|beginner
+Bicep Curls (Air)|strength|beginner
+Tricep Dips (Chair)|strength|beginner
+Superman|strength|beginner
+Modified Burpees|strength|beginner
+Marching in Place|strength|beginner
+Step-ups|strength|beginner
+Lying Hip Abduction|strength|beginner
+Clamshells|strength|beginner
+Fire Hydrants|strength|beginner
+Donkey Kicks|strength|beginner
+Leg Raises (Lying)|strength|beginner
+Reverse Crunches|strength|beginner
+Crunches|strength|beginner
+Modified Side Plank|strength|beginner
+Push-ups|strength|intermediate
+Wide Push-ups|strength|intermediate
+Diamond Push-ups|strength|intermediate
+Lunges|strength|intermediate
+Reverse Lunges|strength|intermediate
+Walking Lunges|strength|intermediate
+Bulgarian Split Squats|strength|intermediate
+Single Leg Glute Bridge|strength|intermediate
+Side Plank|strength|intermediate
+Plank to Down Dog|strength|intermediate
+Mountain Climbers|strength|intermediate
+Burpees|strength|intermediate
+Jump Squats|strength|intermediate
+Single Leg Calf Raises|strength|intermediate
+Pike Push-ups|strength|intermediate
+Dips (Between Chairs)|strength|intermediate
+Hindu Push-ups|strength|intermediate
+Single Leg Deadlift|strength|intermediate
+Russian Twists|strength|intermediate
+Bicycle Crunches|strength|intermediate
+V-Ups|strength|intermediate
+Plank Jacks|strength|intermediate
+Bear Crawls|strength|intermediate
+Crab Walks|strength|intermediate
+Hip Thrusts|strength|intermediate
+Single Leg Squats (Assisted)|strength|intermediate
+Wall Handstand Push-ups|strength|intermediate
+Dragon Flags|strength|intermediate
+Pistol Squats (Assisted)|strength|intermediate
+Diamond Push-ups (Elevated)|strength|intermediate
+Archer Push-ups|strength|intermediate
+Hindu Squats|strength|intermediate
+Jump Lunges|strength|intermediate
+Plank Up-Downs|strength|intermediate
+Starfish Crunches|strength|intermediate
+Flutter Kicks|strength|intermediate
+Scissor Kicks|strength|intermediate
+Hollow Body Hold|strength|intermediate
+L-Sit (Supported)|strength|intermediate
+One-Arm Push-ups|strength|advanced
+Handstand Push-ups|strength|advanced
+Pistol Squats|strength|advanced
+Muscle-ups|strength|advanced
+Planche (Training)|strength|advanced
+Front Lever (Training)|strength|advanced
+Human Flag|strength|advanced
+Dragon Flag|strength|advanced
+L-Sit|strength|advanced
+Single Arm Plank|strength|advanced
+Single Leg Plank|strength|advanced
+Archer Pull-ups|strength|advanced
+Weighted Pistol Squats|strength|advanced
+Single Arm Handstand Push-ups|strength|advanced
+90-Degree Push-ups|strength|advanced
+One-Arm Plank|strength|advanced
+Single Leg Glute Bridge (Weighted)|strength|advanced
+Dragon Walk|strength|advanced
+Shrimp Squats|strength|advanced
+Single Arm Push-up (Elevated)|strength|advanced
+Wall Walk Handstand|strength|advanced
+Single Leg Romanian Deadlift (Weighted)|strength|advanced
+Weighted Pull-ups|strength|advanced
+Single Arm Plank Row|strength|advanced
+Pike Handstand Push-ups|strength|advanced
+Single Leg Box Jumps|strength|advanced
+Weighted Dips|strength|advanced
+Single Arm Muscle-up|strength|advanced
+Planche Push-ups|strength|advanced
+Front Lever Pull-ups|strength|advanced
+Single Arm Front Lever|strength|advanced
+Hamstring Stretch (Standing)|flexibility|beginner
+Quadriceps Stretch (Standing)|flexibility|beginner
+Quadriceps Stretch (Lying)|flexibility|beginner
+Calf Stretch (Wall)|flexibility|beginner
+Calf Stretch (Step)|flexibility|beginner
+Hip Flexor Stretch (Lunge)|flexibility|beginner
+Hip Flexor Stretch (Standing)|flexibility|beginner
+IT Band Stretch|flexibility|beginner
+Pigeon Pose|flexibility|beginner
+Piriformis Stretch|flexibility|beginner
+Figure-4 Stretch|flexibility|beginner
+Shoulder Stretch (Cross Body)|flexibility|beginner
+Shoulder Stretch (Doorway)|flexibility|beginner
+Tricep Stretch|flexibility|beginner
+Bicep Stretch|flexibility|beginner
+Neck Stretch (Side)|flexibility|beginner
+Neck Stretch (Rotation)|flexibility|beginner
+Neck Stretch (Forward)|flexibility|beginner
+Upper Back Stretch (Seated)|flexibility|beginner
+Chest Stretch (Wall)|flexibility|beginner
+Spinal Twist (Seated)|flexibility|beginner
+Child|flexibility|beginner
+Cat-Cow Stretch|flexibility|beginner
+Forward Fold (Standing)|flexibility|beginner
+Butterfly Stretch|flexibility|beginner
+Standing Quad Stretch (Advanced)|flexibility|intermediate
+Standing Hamstring Stretch (Advanced)|flexibility|intermediate
+Lizard Pose|flexibility|intermediate
+Half Splits|flexibility|intermediate
+Reclining Hand-to-Big-Toe|flexibility|intermediate
+Seated Forward Fold|flexibility|intermediate
+Wide-Legged Forward Fold|flexibility|intermediate
+Side Angle Pose|flexibility|intermediate
+Triangle Pose|flexibility|intermediate
+Revolved Triangle|flexibility|intermediate
+Eagle Arms|flexibility|intermediate
+Thread the Needle|flexibility|intermediate
+Puppy Pose|flexibility|intermediate
+Sphinx Pose|flexibility|intermediate
+Cobra Pose|flexibility|intermediate
+Upward Facing Dog|flexibility|intermediate
+Downward Facing Dog|flexibility|intermediate
+Standing Backbend|flexibility|intermediate
+Wheel Pose (Bridge Variation)|flexibility|intermediate
+Full Splits (Front)|flexibility|advanced
+Full Splits (Side)|flexibility|advanced
+King Pigeon|flexibility|advanced
+Standing Splits|flexibility|advanced
+Scorpion Pose|flexibility|advanced
+Camel Pose|flexibility|advanced
+Wheel Pose|flexibility|advanced
+One-Legged King Pigeon|flexibility|advanced
+Dancer Pose|flexibility|advanced
+Forearm Stand|flexibility|advanced
+Headstand|flexibility|advanced
+Handstand|flexibility|advanced
+Scorpion Handstand|flexibility|advanced
+Mermaid Pose|flexibility|advanced
+Flying Pigeon|flexibility|advanced
+Ankle Circles|mobility|beginner
+Ankle Pumps|mobility|beginner
+Ankle Alphabet|mobility|beginner
+Hip Circles|mobility|beginner
+Hip Circles (Lying)|mobility|beginner
+Shoulder Circles|mobility|beginner
+Arm Circles|mobility|beginner
+Wrist Circles|mobility|beginner
+Neck Rolls|mobility|beginner
+Neck Side to Side|mobility|beginner
+Spinal Waves|mobility|beginner
+Cat-Cow Stretch|mobility|beginner
+Hip Hinges|mobility|beginner
+Leg Swings (Forward)|mobility|beginner
+Leg Swings (Side)|mobility|beginner
+Knee Circles|mobility|beginner
+Shoulder Shrugs|mobility|beginner
+Shoulder Blade Slides|mobility|beginner
+Thoracic Extension|mobility|beginner
+Thoracic Rotation|mobility|beginner
+World|mobility|intermediate
+Walking Spiderman|mobility|intermediate
+Hip CARs (Controlled Articular Rotations)|mobility|intermediate
+Shoulder CARs|mobility|intermediate
+Spinal Waves (Advanced)|mobility|intermediate
+90/90 Hip Switches|mobility|intermediate
+Cossack Squats|mobility|intermediate
+Lizard Lunge with Rotation|mobility|intermediate
+Thread the Needle Flow|mobility|intermediate
+Scapular Wall Slides|mobility|intermediate
+Bear Crawl Circles|mobility|intermediate
+Inchworms|mobility|intermediate
+Reverse Tabletop|mobility|intermediate
+Single Leg Romanian Deadlift (Unweighted)|mobility|intermediate
+Windmills|mobility|intermediate
+Loaded Hip Flexor Stretch|mobility|advanced
+Loaded Calf Stretch|mobility|advanced
+Weighted Shoulder Dislocations|mobility|advanced
+Loaded Spinal Rotation|mobility|advanced
+Loaded Hip Circles|mobility|advanced
+Loaded Ankle Mobility|mobility|advanced
+Loaded Wrist Mobility|mobility|advanced
+Loaded Neck Mobility|mobility|advanced
+Loaded Hip Hinge|mobility|advanced
+Loaded Squat Mobility|mobility|advanced
+Walking|cardio|beginner
+Marching in Place|cardio|beginner
+Step-ups (Cardio)|cardio|beginner
+Seated Marching|cardio|beginner
+Arm Circles (Cardio)|cardio|beginner
+Standing Knee Lifts|cardio|beginner
+Heel Taps|cardio|beginner
+Side Steps|cardio|beginner
+Seated Bicycle|cardio|beginner
+Standing Toe Taps|cardio|beginner
+Jumping Jacks|cardio|intermediate
+High Knees|cardio|intermediate
+Butt Kicks|cardio|intermediate
+Mountain Climbers|cardio|intermediate
+Burpees|cardio|intermediate
+Jump Rope (Imaginary)|cardio|intermediate
+Skaters|cardio|intermediate
+Squat Jumps|cardio|intermediate
+Lunge Jumps|cardio|intermediate
+Plank Jacks|cardio|intermediate
+Plyometric Burpees|cardio|advanced
+Box Jumps|cardio|advanced
+Single Leg Box Jumps|cardio|advanced
+Broad Jumps|cardio|advanced
+Tuck Jumps|cardio|advanced
+Star Jumps|cardio|advanced
+Sprint Intervals|cardio|advanced
+Plyometric Lunges|cardio|advanced
+Depth Jumps|cardio|advanced
+Plyometric Push-ups|cardio|advanced
+Single Leg Balance|balance|beginner
+Tandem Stance|balance|beginner
+Heel-to-Toe Walk|balance|beginner
+Standing on One Leg (Eyes Closed)|balance|beginner
+Single Leg Balance with Arm Reach|balance|beginner
+Single Leg Balance with Knee Lift|balance|beginner
+Single Leg Balance with Leg Swing|balance|beginner
+Standing on Toes|balance|beginner
+Single Leg Toe Taps|balance|beginner
+Standing Hip Abduction (Balance)|balance|beginner
+Standing Hip Extension (Balance)|balance|beginner
+Tree Pose|balance|beginner
+Standing Quad Stretch (Balance)|balance|beginner
+Single Leg Deadlift (Balance)|balance|beginner
+Standing Marching|balance|beginner
+Single Leg Squat (Balance)|balance|intermediate
+Single Leg Romanian Deadlift (Balance)|balance|intermediate
+Single Leg Balance with Rotation|balance|intermediate
+Single Leg Balance with Overhead Reach|balance|intermediate
+Single Leg Balance with Leg Circles|balance|intermediate
+Warrior III Pose|balance|intermediate
+Single Leg Balance on Unstable Surface|balance|intermediate
+Single Leg Balance with Ball Toss|balance|intermediate
+Single Leg Balance with Head Turns|balance|intermediate
+Single Leg Balance with Eyes Closed (Advanced)|balance|intermediate
+Single Leg Squat (Eyes Closed)|balance|advanced
+Single Leg Balance on BOSU|balance|advanced
+Single Leg Balance with Weight Transfer|balance|advanced
+Single Leg Balance with Partner Push|balance|advanced
+Single Leg Balance with Complex Movements|balance|advanced
+Quad Sets|rehabilitation|beginner
+Straight Leg Raises|rehabilitation|beginner
+Heel Slides|rehabilitation|beginner
+Ankle Pumps|rehabilitation|beginner
+Ankle Circles|rehabilitation|beginner
+Ankle Alphabet|rehabilitation|beginner
+Calf Raises (Seated)|rehabilitation|beginner
+Wall Sits|rehabilitation|beginner
+Step-ups (Rehabilitation)|rehabilitation|beginner
+Clamshells|rehabilitation|beginner
+Hip Abduction (Lying)|rehabilitation|beginner
+Glute Bridges|rehabilitation|beginner
+Pelvic Tilts|rehabilitation|beginner
+Dead Bug|rehabilitation|beginner
+Bird Dog|rehabilitation|beginner
+Cat-Cow Stretch|rehabilitation|beginner
+Pendulum Swings|rehabilitation|beginner
+Wall Slides|rehabilitation|beginner
+Scapular Retraction|rehabilitation|beginner
+Scapular Squeezes|rehabilitation|beginner
+External Rotation (Band)|rehabilitation|beginner
+Internal Rotation (Band)|rehabilitation|beginner
+Chin Tucks|rehabilitation|beginner
+Neck Isometrics|rehabilitation|beginner
+Wrist Flexion Stretch|rehabilitation|beginner
+Wrist Extension Stretch|rehabilitation|beginner
+Wrist Circles|rehabilitation|beginner
+Knee to Chest|rehabilitation|beginner
+Piriformis Stretch|rehabilitation|beginner
+IT Band Stretch|rehabilitation|beginner
+Single Leg Glute Bridge|rehabilitation|intermediate
+Lateral Step-ups|rehabilitation|intermediate
+Reverse Step-ups|rehabilitation|intermediate
+Single Leg Romanian Deadlift|rehabilitation|intermediate
+Lateral Lunges|rehabilitation|intermediate
+Reverse Lunges|rehabilitation|intermediate
+Wall Push-ups|rehabilitation|intermediate
+Prone Y-T-W|rehabilitation|intermediate
+Band Pull-aparts|rehabilitation|intermediate
+Band Rows|rehabilitation|intermediate
+Plank (Rehabilitation)|rehabilitation|intermediate
+Side Plank|rehabilitation|intermediate
+Dead Bug (Advanced)|rehabilitation|intermediate
+Bird Dog (Advanced)|rehabilitation|intermediate
+Hip Hinges|rehabilitation|intermediate
+Squats (Rehabilitation)|rehabilitation|intermediate
+Lunges (Rehabilitation)|rehabilitation|intermediate
+Calf Raises (Standing)|rehabilitation|intermediate
+Single Leg Calf Raises|rehabilitation|intermediate
+Ankle Eversion/Inversion|rehabilitation|intermediate
+Single Leg Squats (Rehabilitation)|rehabilitation|advanced
+Bulgarian Split Squats|rehabilitation|advanced
+Single Leg Romanian Deadlift (Weighted)|rehabilitation|advanced
+Push-ups (Rehabilitation)|rehabilitation|advanced
+Pull-ups (Assisted)|rehabilitation|advanced
+Plank Variations|rehabilitation|advanced
+Turkish Get-ups|rehabilitation|advanced
+Single Leg Balance with Perturbations|rehabilitation|advanced
+Plyometric Exercises (Rehabilitation)|rehabilitation|advanced
+Functional Movement Patterns|rehabilitation|advanced

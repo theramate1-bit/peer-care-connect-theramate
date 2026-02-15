@@ -1,0 +1,49 @@
+{
+  "name": "peer-care-connect-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Peer Care Connect / Theramate - Credit-based therapy exchange platform",
+  "workspaces": [
+    "peer-care-connect",
+    "ai-ugc-creator",
+    "theramate-ios-client"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=peer-care-connect",
+    "build": "npm run build --workspace=peer-care-connect",
+    "test": "npm run test --workspace=peer-care-connect",
+    "lint": "npm run lint --workspace=peer-care-connect",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^9.0.0",
+    "lint-staged": "^15.0.0"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.{json,md,mdx,css,html,yml,yaml,scss}": [
+      "prettier --write"
+    ]
+  },
+  "engines": {
+    "node": ">=18.17.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/peer-care-connect.git"
+  },
+  "keywords": [
+    "therapy",
+    "healthcare",
+    "booking",
+    "supabase",
+    "react",
+    "typescript"
+  ],
+  "author": "Peer Care Connect Team",
+  "license": "MIT"
+}
